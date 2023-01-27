@@ -1,4 +1,4 @@
-# Playwright instalation
+# Playwright installation
 
 Deze handleiding is geschreven in - [markdown-it] 
 
