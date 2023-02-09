@@ -11,17 +11,18 @@ Stappen plan voor het installeren van playwright
 
 
 ## 1. Node installeren
+Bezoek de site: https://nodejs.org/en/download/
 Ik koos voor de windows installer aan de linkerzijde
 Op het moment van schrijven versie 18.13.0 
 Automatische start de download nadat je hierop klikt welke in je downloads folder terecht komt. 
-Ik koos zelf voor de traditionele next next etc finish methode
+Ik koos de eerste keer voor de traditionele next next etc finish methode. Echter kwam ik er bij de installatie van NPM achter dat we ook de npm package manager nodig hebben.
 
 ## 2. NPM installeren
 Ga naar de website https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac
 Hier kom ik erachter dat ik bij de Node.js installatie ipv next next finish ook de package manager had moeten selecteren.
 Terug naar de download folder om Node opnieuw te installeren, ehm wijzigen. 
 Dit keer kies ik bij de installatie voor de NPM package manager en kies voor next next change finish. 
-Kortom, voer stap 2 alleen uit daarmee installeren we zowel de NPM als Node. bedankt Kevin voor deze omweg! ^^
+Kortom, voer stap 2 alleen uit daarmee installeren we zowel de NPM als Node. bedankt Egstorf voor deze omweg! ^^
 
 Wat we nog wel even doen zoals de site aangeeft "Check Node.js and NPM Version"
 In mijn geval:
