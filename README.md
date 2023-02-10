@@ -104,7 +104,7 @@ To open last HTML report run:
 - In playwright.config.ts kunnen je browsers of device emulatie aan/uit schakelen
 - Maak gebruik van de "Record new" functie om een script op te nemen
 - Maak gebruik van de "Record at cursor" om b.v. gemakkelijk controle punten in te bouwen
-- 
+- Lighthouse integratie is mogelijk
 
 
 
