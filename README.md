@@ -101,9 +101,9 @@ To open last HTML report run:
   
 ## 5. Playwright Tips & Tricks 
 - Gebruik // om comments toe te voegen in je script
-- In playwright.config.ts kunnen je browsers of device emulatie aan en uit schakelen
-- Maak gebruik van de Record new functie om een script op te nemen
-- Maak gebruik van Record at cursor om b.v. gemakkelijk controle punten in te bouwen
+- In playwright.config.ts kunnen je browsers of device emulatie aan/uit schakelen
+- Maak gebruik van de "Record new" functie om een script op te nemen
+- Maak gebruik van de "Record at cursor" om b.v. gemakkelijk controle punten in te bouwen
 - 
 
 
